@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\visual studio project\LoginScreen\bin\Debug\loginServer.exe.config
+C:\Users\acer\Desktop\visual studio project\LoginScreen\bin\Debug\loginServer.exe
+C:\Users\acer\Desktop\visual studio project\LoginScreen\bin\Debug\loginServer.pdb
+C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\loginServer.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\loginServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\LogisServer.Form1.resources
+C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\loginServer.Properties.Resources.resources
+C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\loginServer.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\loginServer.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\loginServer.exe
+C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\loginServer.pdb
