@@ -9,3 +9,4 @@ C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\loginServer.cs
 C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\loginServer.csproj.CoreCompileInputs.cache
 C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\loginServer.exe
 C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\loginServer.pdb
+C:\Users\acer\Desktop\visual studio project\LoginScreen\obj\Debug\LogisServer.Form2.resources
